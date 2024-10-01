@@ -17,7 +17,7 @@
   
   ## Installation
   
-  Download and use the 'npm i' command, then use the 'node index.js' command and answer the questions.
+  Download and use the 'npm i' command.
   
   ## Usage
   
