@@ -8,9 +8,6 @@
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
-  - [contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
   
   ## Installation
