@@ -1,7 +1,5 @@
 # Challenge 07 (Readme Generator)
   
-  
-  
   ## Description
   
   This challenge was to create a program that will generate a README file from Inquirer prompts.
@@ -22,16 +20,6 @@
   ## Usage
   
   Use 'node index.js' and answer all of the questions.
-  
-  
-  
-  ## Contributing
-  
-  N/A
-  
-  ## Tests
-  
-  N/A
   
   ## Questions
   
